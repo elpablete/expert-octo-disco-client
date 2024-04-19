@@ -1,0 +1,3 @@
+[submodule "proto/hello_world"]
+	path = proto/hello_world
+	url = https://github.com/elpablete/expert-octo-disco-proto.git
